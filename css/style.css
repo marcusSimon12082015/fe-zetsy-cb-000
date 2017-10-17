@@ -29,7 +29,8 @@ footer{
 }
 .col-1{
 	float: left;
+	width: 32%;
 }
 [class*="col-"]{
-	margin-left: 5px;
+	margin-left: 2%;
 }
