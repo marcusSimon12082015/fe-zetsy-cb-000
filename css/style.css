@@ -31,11 +31,11 @@ footer{
 	float: left;
 	border: 1px bold rgb(152,173,166);
 }
-/*
+
 [class*="col-"]{
-	margin-left: 2%;
+	margin-left: 2px;
 }
-*/
+
 p{
 	line-height: 1.5em;
 }
