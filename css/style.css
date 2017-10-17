@@ -34,3 +34,6 @@ footer{
 [class*="col-"]{
 	margin-left: 2%;
 }
+p{
+	line-height: 1.5em;
+}
