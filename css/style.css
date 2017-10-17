@@ -31,5 +31,5 @@ footer{
 	float: left;
 }
 [class*="col-"]{
-	margin-left: 2%;
+	margin-left: 5px;
 }
