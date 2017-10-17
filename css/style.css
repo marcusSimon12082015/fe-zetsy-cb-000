@@ -14,7 +14,7 @@ h1{
 		color: rgb(111, 127, 122);
 }
 h2{
-	color: rgb(111, 127, 122);	
+	color: rgb(111, 127, 122);
 }
 .wrapper {
 	width: 960px;
@@ -24,3 +24,6 @@ h2{
 }
 
 /* Write all remaining styles here */
+footer{
+	float:right;
+}
