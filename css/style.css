@@ -31,6 +31,9 @@ footer{
 	float: left;
 	border: 1px bold rgb(152,173,166);
 }
+.small{
+	font-size: smaller;
+}
 
 [class*="col-"]{
 	margin-left: 2px;
