@@ -10,8 +10,11 @@ body {
 	font-family: 'Libre Baskerville','Times New Roman', serif;
 }
 
-h1,h2{
-		color: rgb(111, 127, 122);
+h1{
+	
+}
+h2{	
+	color: rgb(111, 127, 122);
 }
 .wrapper {
 	width: 960px;
