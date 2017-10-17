@@ -12,6 +12,7 @@ body {
 
 h1{
 	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
 }
 h2{
 	color: rgb(111, 127, 122);
