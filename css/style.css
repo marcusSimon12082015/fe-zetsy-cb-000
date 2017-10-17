@@ -34,7 +34,7 @@ footer{
 .small{
 	font-size: smaller;
 }
-#press
+
 [class*="col-"]{
 	margin-left: 2px;
 }
@@ -51,4 +51,7 @@ p{
 	visibility: hidden;
 	height: 0;
 	line-height: 0;
+}
+a{
+	border: 5px solid red;
 }
