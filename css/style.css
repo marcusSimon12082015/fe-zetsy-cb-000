@@ -22,7 +22,8 @@ h1,h2{
 
 /* Write all remaining styles here */
 footer{
-	float:right;
+	text-align: right;
+	background: #fff;
 }
 .col-1{
 	float: left;
