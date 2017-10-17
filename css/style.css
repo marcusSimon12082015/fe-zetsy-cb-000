@@ -33,6 +33,7 @@ footer{
 .col-1{
 	float: left;
 	border-style: 1px groove rgb(152,173,166);
+	margin-left: 2px;
 }
 .small{
 	font-size: smaller;
