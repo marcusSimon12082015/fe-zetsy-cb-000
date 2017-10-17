@@ -75,3 +75,6 @@ header a:hover{
 #press{
 	margin-bottom: 20px;
 }
+#featured{
+	border-bottom: 1px solid #ccc;
+}
