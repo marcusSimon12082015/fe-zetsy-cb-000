@@ -50,7 +50,7 @@ p{
 	line-height: 0;
 }
 #press a{
-	border: 2px solid red;
+	border: 5px #ccc solid;
 }
 header a{
 	text-decoration: none;
