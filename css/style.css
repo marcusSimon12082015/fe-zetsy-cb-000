@@ -49,6 +49,9 @@ p{
 	height: 0;
 	line-height: 0;
 }
+#press{
+	margin-bottom: 20px;
+}
 #press a{
 	border: 5px #ccc solid;
 	padding: 1px;
