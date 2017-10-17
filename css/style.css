@@ -51,6 +51,7 @@ p{
 }
 #press a{
 	border: 5px #ccc solid;
+	padding: 1px;
 }
 header a{
 	text-decoration: none;
