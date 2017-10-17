@@ -36,9 +36,6 @@ footer{
 [class*="col-"]{
 	margin-left: 2px;
 }
-section{
-	margin-bottom: 20px;
-}
 p{
 	line-height: 1.5em;
 }
