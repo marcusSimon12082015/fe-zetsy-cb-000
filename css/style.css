@@ -62,9 +62,6 @@ header a:hover{
 #featured img{
 	border: 5px rgb(152, 173, 166) solid;
 }
-section {
-	border-bottom: 1px solid #ccc;
-}
 
 #press img {
 	border: 5px #ccc solid;
