@@ -27,3 +27,6 @@ h2{
 footer{
 	float:right;
 }
+.col-1{
+	float: left;
+}
