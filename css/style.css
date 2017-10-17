@@ -11,7 +11,8 @@ body {
 }
 
 h1,h2{
-			font-family: bold 2.6em 'Libre Baskerville', serif;
+			font-size: 150%;
+			font-family: bold 'Libre Baskerville', serif;
 			color: rgb(111, 127, 122);
 }
 .wrapper {
