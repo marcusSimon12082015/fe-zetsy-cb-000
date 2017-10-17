@@ -52,13 +52,6 @@ p{
 	height: 0;
 	line-height: 0;
 }
-#press{
-	margin-bottom: 20px;
-}
-#press a{
-	border: 5px #ccc solid;
-	padding: 1px;
-}
 header a{
 	color: rgb(152, 173, 166);
 	text-decoration: none;
@@ -68,4 +61,16 @@ header a:hover{
 }
 #featured img{
 	border: 5px rgb(152, 173, 166) solid;
+}
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
 }
