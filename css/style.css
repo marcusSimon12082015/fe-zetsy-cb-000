@@ -72,3 +72,6 @@ header a:hover{
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
+#press{
+	border: 1px solid #ccc;
+}
