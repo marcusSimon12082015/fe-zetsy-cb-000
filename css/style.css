@@ -52,6 +52,6 @@ p{
 #press a{
 	border: 2px solid red;
 }
-#header{
+header a{
 	text-decoration: none;
 }
